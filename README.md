@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Ayush Ankit Patnaik. Friends call me Alligator sometimes.<br>I am a Game Developer and I am currently working with XR
+Hi! I am Ayush Ankit Patnaik. Friends call me Alligator sometimes.<br>I am a Game Developer and I am currently working with XR, <br> Currently learning rust.
 
 
 ## 🌐 Socials:
