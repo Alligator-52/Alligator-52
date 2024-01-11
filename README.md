@@ -11,7 +11,7 @@ Hi! I am Ayush Ankit Patnaik. Friends call me Alligator sometimes.<br>I am a Gam
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) [![UWP](https://img.shields.io/badge/UWP-%230072C6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/uwp/)[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=White)](https://www.python.org/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alligator-52&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Alligator-52&theme=merko&hide_border=false)](https://git.io/streak-stats)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alligator-52&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alligator-52&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
