@@ -12,7 +12,6 @@ Hi! I am Ayush Ankit Patnaik. Friends call me Alligator sometimes.<br>I am a Gam
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alligator-52&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Alligator-52&theme=merko&hide_border=false)](https://git.io/streak-stats)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alligator-52&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alligator-52&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
