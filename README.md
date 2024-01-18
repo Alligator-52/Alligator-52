@@ -11,7 +11,7 @@ Hi! I am Ayush Ankit Patnaik. Friends call me Alligator sometimes.<br>I am a Gam
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) [![UWP](https://img.shields.io/badge/UWP-%230072C6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/uwp/)[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=White)](https://www.python.org/)
 # 📊 GitHub Stats:
 ![Alligator-52's Stats](https://github-readme-stats.vercel.app/api?username=Alligator-52&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
-![Alligator-52's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alligator-52&theme=vue-dark&hide_border=true)<br>
+![Alligator-52's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alligator-52&theme=vue-dark&hide_border=true&private=true)<br>
 ![Alligator-52's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alligator-52&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
