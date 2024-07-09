@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Ayush Ankit Patnaik. Friends call me Alligator sometimes. I like whatever my mood says
+Hi! I am Ayush Ankit Patnaik. Friends call me Alligator sometimes. I like whatever
 
 
 ## 🌐 Socials:
